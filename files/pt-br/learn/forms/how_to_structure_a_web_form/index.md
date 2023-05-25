@@ -122,7 +122,7 @@ Por exemplo:
 
 ### Múltiplos labels
 
-Estritamente falando, você pode colocar vários rótulos em um único widget, mas isso não é uma boa ideia, pois algumas tecnologias de assistência podem ter problemas para lidar com eles. No caso de vários rótulos, você deve aninhar um widget e seus rótulos dentro de um único elemento {{htmlelement ("label")}}.
+Estritamente falando, você pode colocar vários label'sem um único widget, mas isso não é uma boa ideia, pois algumas tecnologias de assistência podem ter problemas para lidar com eles. No caso de vários rótulos, você deve aninhar um widget e seus rótulos dentro de um único elemento {{htmlelement ("label")}}.
 
 Vamos considerar este exemplo:
 
@@ -152,9 +152,8 @@ Vamos considerar este exemplo:
 </div>
 ```
 
-The paragraph at the top defines the rule for required elements. It must be at the beginning to make sure that assistive technologies such as screen readers will display or vocalize it to the user before they find a required element. That way, they will know what the asterisk means. A screen reader will speak the star as "_star_" or "_required_", depending on the screen reader's settings — in any case, what will be spoken is made clear in the first paragraph).
-
-- In the first example, the label is not read out at all with the input — you just get "edit text blank", plus the actual labels are read out separately. The multiple `<label>`elements confuse the screenreader.
+O parágrafo de cima define uma regra para os campos obrigatórios. Deve ser  no começo para ter certeza que as tecnologias assistivas como leitores de telas vão  exibir ou pronunciar isto para o usuário antes dele encontrar um campo obrigatório.  Desta forma, eles vão saber o quê o asterisco significa. Um leitor de tela irá dizer o asterisco como "Asterisco" ou "Obrigatório", dependo das configurações do leitor de tela - De qualquer maneira, o quê será dito é  deixado claro no primeiro parágrafo.
+- No primeiro evento, o label não é lido completamente com o input  você só tem "editar texto vazio", além  dos atuais label's serem lidos separadamente. Os vários elementos `<label>`confundem o leitor de tela. 
 - In the second example, things are a bit clearer — the label read out along with the input is "name star name edit text", and the labels are still read out separately. Things are still a bit confusing, but it's a bit better this time because the input has a label associated with it.
 - The third example is best — the actual label is read out all together, and the label read out with the input is "name star edit text".
 
