@@ -8480,98 +8480,6 @@
     "modified": "2019-03-23T22:55:54.351Z",
     "contributors": ["surrsoft"]
   },
-  "Web/CSS/CSS_Animations": {
-    "modified": "2019-03-23T22:43:47.167Z",
-    "contributors": ["Geloosa", "teoli", "MexieAndCo"]
-  },
-  "Web/CSS/CSS_Animations/Tips": {
-    "modified": "2020-05-03T11:02:29.768Z",
-    "contributors": ["anna.bunakova"]
-  },
-  "Web/CSS/CSS_Animations/Using_CSS_animations": {
-    "modified": "2019-09-08T05:26:38.746Z",
-    "contributors": [
-      "dmarkin",
-      "trman",
-      "KatyaRyazantseva",
-      "Inqanter",
-      "pseudoliza",
-      "ShadF0x",
-      "verbaux",
-      "SphinxKnight",
-      "mrkorsar",
-      "teoli",
-      "ukarim"
-    ]
-  },
-  "Web/CSS/CSS_Backgrounds_and_Borders": {
-    "modified": "2019-03-23T22:40:44.971Z",
-    "contributors": ["teoli"]
-  },
-  "Web/CSS/CSS_Backgrounds_and_Borders/Border-image_generator": {
-    "modified": "2019-03-23T22:25:50.600Z",
-    "contributors": ["BychekRU"]
-  },
-  "Web/CSS/CSS_Backgrounds_and_Borders/Border-radius_generator": {
-    "modified": "2019-03-23T22:40:49.075Z",
-    "contributors": ["vito_falcone"]
-  },
-  "Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator": {
-    "modified": "2019-03-18T20:43:50.074Z",
-    "contributors": ["BychekRU"]
-  },
-  "Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds": {
-    "modified": "2019-03-23T22:13:04.810Z",
-    "contributors": ["J-N-Z"]
-  },
-  "Web/CSS/CSS_Basic_User_Interface": {
-    "modified": "2019-03-18T21:18:49.969Z",
-    "contributors": ["SphinxKnight"]
-  },
-  "Web/CSS/CSS_Box_Alignment": {
-    "modified": "2019-03-18T21:33:03.343Z",
-    "contributors": ["slychai85"]
-  },
-  "Web/CSS/CSS_Box_Alignment/Box_Alignment_in_Flexbox": {
-    "modified": "2020-06-05T15:51:55.007Z",
-    "contributors": ["randomesis"]
-  },
-  "Web/CSS/CSS_Box_Model": {
-    "modified": "2019-03-23T22:36:43.800Z",
-    "contributors": ["Sebastianz"]
-  },
-  "Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model": {
-    "modified": "2019-03-23T23:02:32.915Z",
-    "contributors": ["akovbovich", "Aleksej", "codedokode"]
-  },
-  "Web/CSS/CSS_Box_Model/Mastering_margin_collapsing": {
-    "modified": "2020-07-01T02:44:27.480Z",
-    "contributors": [
-      "ialexi-bl",
-      "trman",
-      "xaveroniter",
-      "whiteGloom",
-      "Tuman",
-      "antipenko",
-      "Luboshenko",
-      "andrew-bishop",
-      "stakeout",
-      "RomanAkhma",
-      "hinduCoder"
-    ]
-  },
-  "Web/CSS/CSS_Colors": {
-    "modified": "2019-03-23T22:34:30.410Z",
-    "contributors": ["BychekRU", "Krenair"]
-  },
-  "Web/CSS/CSS_Colors/Applying_color": {
-    "modified": "2019-03-18T21:45:50.255Z",
-    "contributors": ["ChristinaKrapivina", "warsan", "kasperyan"]
-  },
-  "Web/CSS/CSS_Colors/Color_picker_tool": {
-    "modified": "2019-03-23T22:34:32.727Z",
-    "contributors": ["altsab", "THEIDN", "buhantsev"]
-  },
   "Web/CSS/CSS_Columns": {
     "modified": "2019-03-23T22:43:48.744Z",
     "contributors": ["Sebastianz"]
@@ -8580,50 +8488,6 @@
     "modified": "2019-07-22T11:08:23.191Z",
     "contributors": ["a-bodrova", "sandmanisdancing", "fscholz", "ldone"]
   },
-  "Web/CSS/CSS_Counter_Styles/Using_CSS_counters": {
-    "modified": "2020-04-28T15:39:35.383Z",
-    "contributors": ["arnoldovich", "moshenskyDV"]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout": {
-    "modified": "2020-10-19T05:53:46.314Z",
-    "contributors": ["kyusov", "idoru", "WynnChen"]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container": {
-    "modified": "2020-05-25T19:08:16.925Z",
-    "contributors": [
-      "synedvorkham",
-      "Ruslan_Zlygostev",
-      "AndriySikora",
-      "idoru",
-      "lexeek",
-      "kalitadanila",
-      "m-o-semenov",
-      "ViktoriLisenok",
-      "dubtar"
-    ]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout/Backwards_Compatibility_of_Flexbox": {
-    "modified": "2019-03-18T21:22:36.012Z",
-    "contributors": ["viktoryiakuzmitskaya"]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox": {
-    "modified": "2020-07-30T04:09:14.375Z",
-    "contributors": [
-      "aka.sonja",
-      "seejay",
-      "sashakrauzer",
-      "RomanBush",
-      "kalitadanila"
-    ]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout/Controlling_Ratios_of_Flex_Items_Along_the_Main_Ax": {
-    "modified": "2020-03-08T07:17:57.807Z",
-    "contributors": ["Radragon", "billlater"]
-  },
-  "Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items": {
-    "modified": "2020-07-12T10:15:34.642Z",
-    "contributors": ["PavelKoroteev", "RomanBush"]
-  },
   "Web/CSS/CSS_Flow_Layout": {
     "modified": "2020-03-07T13:30:09.947Z",
     "contributors": ["Radragon"]
@@ -8631,10 +8495,6 @@
   "Web/CSS/CSS_Flow_Layout/Intro_to_formatting_contexts": {
     "modified": "2020-03-08T14:31:08.319Z",
     "contributors": ["Radragon"]
-  },
-  "Web/CSS/CSS_Fonts": {
-    "modified": "2020-10-10T08:59:00.093Z",
-    "contributors": ["StanEffy"]
   },
   "Web/CSS/CSS_Grid_Layout": {
     "modified": "2020-04-17T02:22:53.979Z",
@@ -8803,6 +8663,146 @@
   "Web/CSS/CSS_Writing_Modes": {
     "modified": "2020-03-07T12:38:48.764Z",
     "contributors": ["Radragon"]
+  },
+  "Web/CSS/CSS_animations": {
+    "modified": "2019-03-23T22:43:47.167Z",
+    "contributors": ["Geloosa", "teoli", "MexieAndCo"]
+  },
+  "Web/CSS/CSS_animations/Tips": {
+    "modified": "2020-05-03T11:02:29.768Z",
+    "contributors": ["anna.bunakova"]
+  },
+  "Web/CSS/CSS_animations/Using_CSS_animations": {
+    "modified": "2019-09-08T05:26:38.746Z",
+    "contributors": [
+      "dmarkin",
+      "trman",
+      "KatyaRyazantseva",
+      "Inqanter",
+      "pseudoliza",
+      "ShadF0x",
+      "verbaux",
+      "SphinxKnight",
+      "mrkorsar",
+      "teoli",
+      "ukarim"
+    ]
+  },
+  "Web/CSS/CSS_backgrounds_and_borders": {
+    "modified": "2019-03-23T22:40:44.971Z",
+    "contributors": ["teoli"]
+  },
+  "Web/CSS/CSS_backgrounds_and_borders/Border-image_generator": {
+    "modified": "2019-03-23T22:25:50.600Z",
+    "contributors": ["BychekRU"]
+  },
+  "Web/CSS/CSS_backgrounds_and_borders/Border-radius_generator": {
+    "modified": "2019-03-23T22:40:49.075Z",
+    "contributors": ["vito_falcone"]
+  },
+  "Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator": {
+    "modified": "2019-03-18T20:43:50.074Z",
+    "contributors": ["BychekRU"]
+  },
+  "Web/CSS/CSS_backgrounds_and_borders/Using_multiple_backgrounds": {
+    "modified": "2019-03-23T22:13:04.810Z",
+    "contributors": ["J-N-Z"]
+  },
+  "Web/CSS/CSS_basic_user_interface": {
+    "modified": "2019-03-18T21:18:49.969Z",
+    "contributors": ["SphinxKnight"]
+  },
+  "Web/CSS/CSS_box_alignment": {
+    "modified": "2019-03-18T21:33:03.343Z",
+    "contributors": ["slychai85"]
+  },
+  "Web/CSS/CSS_box_alignment/Box_alignment_in_flexbox": {
+    "modified": "2020-06-05T15:51:55.007Z",
+    "contributors": ["randomesis"]
+  },
+  "Web/CSS/CSS_box_model": {
+    "modified": "2019-03-23T22:36:43.800Z",
+    "contributors": ["Sebastianz"]
+  },
+  "Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model": {
+    "modified": "2019-03-23T23:02:32.915Z",
+    "contributors": ["akovbovich", "Aleksej", "codedokode"]
+  },
+  "Web/CSS/CSS_box_model/Mastering_margin_collapsing": {
+    "modified": "2020-07-01T02:44:27.480Z",
+    "contributors": [
+      "ialexi-bl",
+      "trman",
+      "xaveroniter",
+      "whiteGloom",
+      "Tuman",
+      "antipenko",
+      "Luboshenko",
+      "andrew-bishop",
+      "stakeout",
+      "RomanAkhma",
+      "hinduCoder"
+    ]
+  },
+  "Web/CSS/CSS_colors": {
+    "modified": "2019-03-23T22:34:30.410Z",
+    "contributors": ["BychekRU", "Krenair"]
+  },
+  "Web/CSS/CSS_colors/Applying_color": {
+    "modified": "2019-03-18T21:45:50.255Z",
+    "contributors": ["ChristinaKrapivina", "warsan", "kasperyan"]
+  },
+  "Web/CSS/CSS_colors/Color_picker_tool": {
+    "modified": "2019-03-23T22:34:32.727Z",
+    "contributors": ["altsab", "THEIDN", "buhantsev"]
+  },
+  "Web/CSS/CSS_counter_styles/Using_CSS_counters": {
+    "modified": "2020-04-28T15:39:35.383Z",
+    "contributors": ["arnoldovich", "moshenskyDV"]
+  },
+  "Web/CSS/CSS_flexible_box_layout": {
+    "modified": "2020-10-19T05:53:46.314Z",
+    "contributors": ["kyusov", "idoru", "WynnChen"]
+  },
+  "Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container": {
+    "modified": "2020-05-25T19:08:16.925Z",
+    "contributors": [
+      "synedvorkham",
+      "Ruslan_Zlygostev",
+      "AndriySikora",
+      "idoru",
+      "lexeek",
+      "kalitadanila",
+      "m-o-semenov",
+      "ViktoriLisenok",
+      "dubtar"
+    ]
+  },
+  "Web/CSS/CSS_flexible_box_layout/Backwards_compatibility_of_flexbox": {
+    "modified": "2019-03-18T21:22:36.012Z",
+    "contributors": ["viktoryiakuzmitskaya"]
+  },
+  "Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox": {
+    "modified": "2020-07-30T04:09:14.375Z",
+    "contributors": [
+      "aka.sonja",
+      "seejay",
+      "sashakrauzer",
+      "RomanBush",
+      "kalitadanila"
+    ]
+  },
+  "Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis": {
+    "modified": "2020-03-08T07:17:57.807Z",
+    "contributors": ["Radragon", "billlater"]
+  },
+  "Web/CSS/CSS_flexible_box_layout/Mastering_wrapping_of_flex_items": {
+    "modified": "2020-07-12T10:15:34.642Z",
+    "contributors": ["PavelKoroteev", "RomanBush"]
+  },
+  "Web/CSS/CSS_fonts": {
+    "modified": "2020-10-10T08:59:00.093Z",
+    "contributors": ["StanEffy"]
   },
   "Web/CSS/Cascade": {
     "modified": "2019-12-08T06:05:17.526Z",
