@@ -1,6 +1,6 @@
 ---
 title: Compositing and Blending
-slug: Web/CSS/Compositing_and_Blending
+slug: Web/CSS/CSS_compositing_and_blending
 tags:
   - Aperçu
   - CSS
@@ -8,6 +8,7 @@ tags:
   - Overview
   - Reference
 translation_of: Web/CSS/Compositing_and_Blending
+original_slug: Web/CSS/Compositing_and_Blending
 ---
 
 {{CSSRef}}
